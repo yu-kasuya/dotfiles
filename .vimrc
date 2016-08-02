@@ -15,10 +15,10 @@ if &compatible
 endif
 
 " Required:
-set runtimepath^=/Users/kasuya/.vim/dein/repos/github.com/Shougo/dein.vim
+set runtimepath^=$HOME/.vim/dein/repos/github.com/Shougo/dein.vim
 
 " Required:
-call dein#begin(expand('/Users/kasuya/.vim/dein'))
+call dein#begin(expand('$HOME/.vim/dein'))
 
 " Let dein manage dein
 " Required:
