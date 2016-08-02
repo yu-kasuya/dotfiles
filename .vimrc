@@ -41,6 +41,7 @@ call dein#end()
 " colorscheme
 set background=dark
 colorscheme hybrid
+set t_Co=256
 
 " Required:
 filetype plugin indent on
